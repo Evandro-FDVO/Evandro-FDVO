@@ -39,22 +39,22 @@ Beside's programming, I enjoy reading and traveling.<br>
 
 <p align="left">
   <a href="https://www.python.org/">
-    <img width="30px" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Python.svg" />
+    <img width="30px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Python.svg" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img width="30px" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Python.svg" />
+    <img width="30px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Typescript.svg" />
   </a>
   <a href="https://angular.io/">
-    <img width="30px" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Python.svg" />
+    <img width="30px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Angular.svg" />
   </a>
   <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=vs-2019">
-    <img width="30px" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Python.svg" />
+    <img width="30px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/C%2B%2B.svg" />
   </a>
   <a href="https://getbootstrap.com.br/">
-    <img width="30px" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Python.svg" />
+    <img width="30px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Bootstrap.svg" />
   </a>
   <a href="https://www.javascript.com/">
-    <img width="30px" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Python.svg" />
+    <img width="30px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Javascript.svg" />
   </a>
 </p>
 
