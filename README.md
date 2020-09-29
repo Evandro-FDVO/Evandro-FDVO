@@ -4,7 +4,7 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------- -->
 
-## <img align="center" alt="Banner" src="https://github.com/Evandro-FDVO/teste_perfil/blob/master/Evandro-fdvo.png" />
+## <img align="center" alt="Banner" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Evandro-fdvo.png" />
 
 <!-- --------------------------------------------------------------------------------------------------------------------------- -->
 
