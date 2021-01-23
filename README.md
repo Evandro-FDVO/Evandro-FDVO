@@ -26,10 +26,10 @@ Beside's programming, I enjoy reading and traveling.<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/evandro-fdvo/">
-    <img alt="Evandro's Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Evandro's Linkedin" width="20px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Linkedin.svg" />
   </a>
   <a href="mailto:evandro.della@gmail.com">
-    <img alt="Evandro's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
+    <img alt="Evandro's Gmail" width="20px" src="https://github.com/Evandro-FDVO/Evandro-FDVO/blob/master/img/Gmail.svg" />
   </a>
 </p>
 
